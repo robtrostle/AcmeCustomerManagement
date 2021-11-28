@@ -1,0 +1,15 @@
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.dll
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.pdb
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csprojAssemblyReference.cache
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+C:\Users\robtr\source\repos\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
